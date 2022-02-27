@@ -14,9 +14,11 @@
   </ItemGroup>
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_0704_Binary_Search</RootNamespace>
+    <RootNamespace>Array_First_Bad_Version</RootNamespace>
+    <ApplicationIcon />
+    <StartupObject />
   </PropertyGroup>
 
 </Project>

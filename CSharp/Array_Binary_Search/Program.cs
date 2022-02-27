@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _0704_Binary_Search
+namespace Array_Binary_Search
 {
     public class Program
     {

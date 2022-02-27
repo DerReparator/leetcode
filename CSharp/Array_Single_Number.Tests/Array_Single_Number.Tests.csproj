@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_0704_Binary_SearchTests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
@@ -21,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\0704_Binary_Search\0704_Binary_Search.csproj"/>
+    <ProjectReference Include="..\Array_Single_Number\Array_Single_Number.csproj" />
   </ItemGroup>
 
 </Project>
